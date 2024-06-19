@@ -1,4 +1,8 @@
 # Tower-of-Hanoi
+/*
+Created by:Nischal Shetty
+date:19/6
+*/
 #include<stdio.h>
 #include<conio.h>
 void towersofhanoi(int n,char fromTower,char toTower,char auxTower)
